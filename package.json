@@ -1,6 +1,6 @@
 {
   "name": "make-change",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make change for a given amount of money.",
   "main": "index.js",
   "scripts": {

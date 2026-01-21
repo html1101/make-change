@@ -1,1 +1,1 @@
-import { makeChange } from "./make-change.api";
+import { ChangeMaker } from "./make-change.api";
