@@ -1,0 +1,11 @@
+{
+  "name": "make-change",
+  "version": "1.0.0",
+  "description": "Make change for a given amount of money.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah, Mark",
+  "license": "ISC"
+}
