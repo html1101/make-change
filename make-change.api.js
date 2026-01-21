@@ -68,8 +68,8 @@ class ChangeMaker {
      * the provided amount.
      * 
      * @param {number} amount - Amount in curreny's main unit i.e. dollars not cents. Required. 
-     * @returns { Array<{denomination: string, count: number}>[] | null } Coins-only solution,
-     * or null if impossible.
+     * @returns { Array<{denomination: string, count: number}>[] } Coins-only solution,
+     * or an empty array if impossible.
      * 
      * @throws {TypeError} If amount is invalid
      * @throws {RangeError} If amount < 0
